@@ -5,6 +5,6 @@
 ⚡typing speed:94+WPM /English: fluent 
 ✉️Email: bingikaruna245@gmail.com 
 
-###my first project 
-1.**calculator the program**_Basic input/output using python ---
-⭐star the repo if you like my coding 
+**Calculator** _ Basic input/output calculator using python 
+**Number Guessing Game** _ Random number game with loops + if/else
+**Age Greeter** _ Takes name + age as input and prints a greeting message 
